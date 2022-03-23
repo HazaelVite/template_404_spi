@@ -10,8 +10,7 @@
                 <v-col cols="5" align="center">
                     <div id="titleHeader">
                         Universidad Nacional Autónoma de México<br>
-                        Facultad de Química<br>
-                        Olimpiada de Química CDMX
+                        Facultad de Química
                     </div>
                 </v-col>
                 <v-col cols="3">
